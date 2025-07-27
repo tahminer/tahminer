@@ -7,8 +7,8 @@
 
 ## 🔐 Interests
 
+- Web App Vulnerabilities 
 - Network Security & Pentesting
-- Web App Vulnerabilities (OWASP Top 10)
 
 ---
 
